@@ -1,2 +1,2 @@
 # CRUDEstoque
-SAPOHA MEMO
+Cruds de teste para sistema fictício de Estoque
